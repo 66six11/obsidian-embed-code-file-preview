@@ -1,7 +1,7 @@
 {
 	"id": "code-file-preview",
 	"name": "code-file-preview",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.8.0",
 	"description": "直接在Obsidian中预览代码文件",
 	"author": "Obsidian",
